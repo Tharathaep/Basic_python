@@ -25,7 +25,7 @@ print ("Helloworld!!!")
 #
 """
 x = 5               # Integer
-y = "Hey Brus"      # String
+y = "Hey Bruh"      # String
 print(x,y)
 
 x = str(3)
@@ -60,16 +60,16 @@ my_nariable_name = "John"
 #
 """
 
-x = "Hey Brus"
+x = "Hey Bruh"
 print(x)
 
-y = """1 Hey Brus
-2 Hey Brus
-3 Hey Brus
+y = """1 Hey Bruh
+2 Hey Bruh
+3 Hey Bruh
 """
 print(y)
 
-x = "Hey Brus"
+x = "Hey Bruh"
 print(x[2])
 print(len(x))
 print("Hey" in x)
@@ -77,7 +77,7 @@ print("What'sup" not in x)
 print(x.upper())
 print(x.lower())
 
-print(x.replace("Brus", "Sis"))
+print(x.replace("Bruh", "Sis"))
 print(x.split(" "))
 
 a = "Apple"
